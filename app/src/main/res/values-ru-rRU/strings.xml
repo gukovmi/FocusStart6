@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ФокусСтарт6</string>
+    <string name="free_app_type">Вы используете бесплатную версию</string>
+    <string name="paid_app_type">Вы используете платную версию</string>
+    <string name="unknown_app_type">Вы используете неизвестную версию</string>
+</resources>
